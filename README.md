@@ -3,6 +3,7 @@ shapeR
 
 R package to study otolith shape variation among fish populations
 
+##Shape R has recently been archived (June 2022) and so the following is to be able to install the package from the archived file
 
 ##download Rtools installer from CRAN - https://cran.r-project.org/bin/windows/Rtools/rtools40.html
 ## after installation create .txt document named .Renviron in documents folder with the following line:
